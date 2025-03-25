@@ -2,6 +2,8 @@
 
 I'm a passionate and driven 4th-year Computer Science student at FEU - Institute of Technology, specializing in Python development, Flask applications, and machine learning. I thrive on building efficient, scalable, and secure solutions, with hands-on experience in automation, scripting, and network security analysis.
 
+Check out my web portfolio at: https://maleleee.github.io/Web-Portfolio/
+
 🔍 Currently seeking an internship to apply my skills, collaborate on innovative projects, and gain industry experience.
 
 
